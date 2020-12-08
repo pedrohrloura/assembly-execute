@@ -1,0 +1,8 @@
+load 4,r0
+load 8,r1
+add r1,r2
+add r1,r2
+add r1,r2
+sub r0,r2
+mult 3,r2
+halt

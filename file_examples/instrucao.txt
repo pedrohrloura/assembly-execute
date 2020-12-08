@@ -1,0 +1,49 @@
+Vetor de instruções: 
+Posição 0:
+-Operação: load
+-Dado: 4
+-Número do registrador de origem: -1
+-Número do registrador de destino: 0
+
+Posição 1:
+-Operação: load
+-Dado: 8
+-Número do registrador de origem: -1
+-Número do registrador de destino: 1
+
+Posição 2:
+-Operação: add
+-Dado: -1
+-Número do registrador de origem: 1
+-Número do registrador de destino: 2
+
+Posição 3:
+-Operação: add
+-Dado: -1
+-Número do registrador de origem: 1
+-Número do registrador de destino: 2
+
+Posição 4:
+-Operação: add
+-Dado: -1
+-Número do registrador de origem: 1
+-Número do registrador de destino: 2
+
+Posição 5:
+-Operação: sub
+-Dado: -1
+-Número do registrador de origem: 0
+-Número do registrador de destino: 2
+
+Posição 6:
+-Operação: mult
+-Dado: 3
+-Número do registrador de origem: -1
+-Número do registrador de destino: 2
+
+Posição 7:
+-Operação: halt
+-Dado: -1
+-Número do registrador de origem: -1
+-Número do registrador de destino: -1
+
